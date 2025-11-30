@@ -1,0 +1,36 @@
+Topic_Name,emotion_macro,count
+Account and Technical Support,Mixed,312
+Account and Technical Support,Neutral,114
+Baggage and Lost Items,Angry,34
+Baggage and Lost Items,Happy,12
+Baggage and Lost Items,Mixed,406
+Baggage and Lost Items,Neutral,116
+Billing and Refunds,Angry,34
+Billing and Refunds,Confused,18
+Billing and Refunds,Happy,12
+Billing and Refunds,Mixed,412
+Billing and Refunds,Neutral,126
+Flight Operations and Status,Happy,12
+Flight Operations and Status,Mixed,56
+General Customer Service,Angry,144
+General Customer Service,Confused,84
+General Customer Service,Happy,140
+General Customer Service,Mixed,4764
+General Customer Service,Neutral,1454
+In-flight Experience,Angry,20
+In-flight Experience,Confused,4
+In-flight Experience,Happy,12
+In-flight Experience,Mixed,364
+In-flight Experience,Neutral,194
+Loyalty and Rewards Program,Angry,84
+Loyalty and Rewards Program,Happy,144
+Loyalty and Rewards Program,Mixed,3106
+Loyalty and Rewards Program,Neutral,896
+Reservations and Ticketing,Angry,66
+Reservations and Ticketing,Confused,12
+Reservations and Ticketing,Happy,60
+Reservations and Ticketing,Mixed,1650
+Reservations and Ticketing,Neutral,390
+Special Services and Assistance,Happy,12
+Special Services and Assistance,Mixed,276
+Special Services and Assistance,Neutral,58

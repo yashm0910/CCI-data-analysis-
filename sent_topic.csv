@@ -1,0 +1,27 @@
+Topic_Name,Sentiment,count
+Account and Technical Support,negative,242
+Account and Technical Support,neutral,114
+Account and Technical Support,positive,70
+Baggage and Lost Items,negative,356
+Baggage and Lost Items,neutral,116
+Baggage and Lost Items,positive,96
+Billing and Refunds,negative,358
+Billing and Refunds,neutral,138
+Billing and Refunds,positive,106
+Flight Operations and Status,negative,50
+Flight Operations and Status,positive,18
+General Customer Service,negative,3416
+General Customer Service,neutral,1582
+General Customer Service,positive,1588
+In-flight Experience,negative,172
+In-flight Experience,neutral,216
+In-flight Experience,positive,206
+Loyalty and Rewards Program,negative,1444
+Loyalty and Rewards Program,neutral,972
+Loyalty and Rewards Program,positive,1814
+Reservations and Ticketing,negative,1306
+Reservations and Ticketing,neutral,408
+Reservations and Ticketing,positive,464
+Special Services and Assistance,negative,178
+Special Services and Assistance,neutral,70
+Special Services and Assistance,positive,98
